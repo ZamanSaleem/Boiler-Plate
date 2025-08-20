@@ -1,0 +1,4 @@
+module.exports = {
+  ROLES: ["SUPER_ADMIN", "ADMIN", "MANAGER", "USER", "DEVELOPER"],
+  USER_STATUS: ["ACTIVE", "INACTIVE", "PENDING", "BLOCKED"],
+};
